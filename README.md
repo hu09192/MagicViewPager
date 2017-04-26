@@ -1,0 +1,2 @@
+# MagicViewPager
+一般的ViewPager只能左右切换，修改后的ViewPager可以上下左右切换。
